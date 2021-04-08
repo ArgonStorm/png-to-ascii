@@ -56,14 +56,15 @@ function to_ascii_art(data, width, height, res) {
     const s_levl = [
         "  ",
         " .",
-        " ,",
-        " -",
         " :",
+        " ;",
+        " -",
         " +",
-        " /",
-        " o",
-        " 0",
-        " 8",
+        " =",
+        " %",
+        " $",
+        " #",
+        " @",
     ]
 
     console.log("starting to create ascii")
