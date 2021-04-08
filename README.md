@@ -9,6 +9,8 @@ To use this tool, you also need a current node version, I tested on version 15. 
 
 Open a command prompt and navigate into the directory of the index.js file.
 
+Install the dependencies with `npm install`
+
 To use the tool, use the command `node index.js 'path/to/your/image.png' [scale] [inverted] [blur]`
 
 ## Options
